@@ -41,11 +41,17 @@
           <!-- <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span> -->
         </div>
-
-        {{ content }}
-
+        <div style="display:flex; gap:2rem; flex-wrap:wrap;">
+          <div style="flex:0 0 400px;">
+            {% include card.html %}
+          </div>
+          <div style="flex:1;">
+            <!-- Resume content here -->
+            {{ content }}
+          </div>          
+        </div>
+        <!-- {{ content }} -->
       </section>
-
     </div>
   </body>
 </html>
