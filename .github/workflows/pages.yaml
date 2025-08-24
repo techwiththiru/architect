@@ -38,12 +38,12 @@ jobs:
           bundle exec jekyll build -d ../_site/jekyll
 
       # -------------------
-      # Copy custom site
+      # Copy bootstrap site
       # -------------------
-      - name: Copy custom site
+      - name: Copy bootstrap site
         run: |
-          mkdir -p _site/custom
-          cp -r custom/* _site/custom/
+          mkdir -p _site/bootstrap
+          cp -r bootstrap/* _site/bootstrap/
 
       # -------------------
       # Upload artifact
