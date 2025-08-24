@@ -30,6 +30,7 @@ jobs:
       - name: Install Jekyll dependencies
         working-directory: jekyll
         run: |
+          gem install bundler
           bundle install
 
       - name: Build Jekyll
@@ -54,7 +55,7 @@ jobs:
           path: _site
 
   # -------------------
-  # Deploy job
+  # Deploy to GitHub Pages
   # -------------------
   deploy:
     environment:
