@@ -1,1 +1,1 @@
-[![View my Resume](https://img.shields.io/badge/Website-Online-brightgreen)](https://techwiththiru.github.io/architect/jekyll)
+## 📄 [Check out my Resume](https://techwiththiru.github.io/architect/jekyll)
