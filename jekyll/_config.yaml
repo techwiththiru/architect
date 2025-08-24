@@ -5,4 +5,4 @@ domain: techwiththiru.github.io       # if you want to force HTTPS, specify the 
 url: https://techwiththiru.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /architect/jekyll      # place folder name if the site is served in a subfolder
 permalink: pretty
-google_analytics: G-2NF9QNKQ66
+google_analytics: G-8STBSJX6PR
