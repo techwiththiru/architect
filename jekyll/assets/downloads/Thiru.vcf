@@ -1,8 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
 FN:Thirunarayanan Sowrirajan
+N:Sowrirajan;Thirunarayanan;;;
 TITLE:Solutions Architect
-EMAIL:ReachTechThiru@Gmail.com
-TEL:+1-9729713083
+EMAIL;TYPE=INTERNET;TYPE=WORK:ReachTechThiru@Gmail.com
+TEL;TYPE=CELL:+1-9729713083
 URL:https://techwiththiru.github.io/architect/jekyll
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/techwiththiru
 END:VCARD
