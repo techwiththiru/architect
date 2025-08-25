@@ -1,20 +1,12 @@
 #### Thirunarayanan Sowrirajan (Thiru)
 
-_Solutions Architect \| .NET \| Azure \| Modernization \| Microservices \| API \|_
+*Solutions Architect \| .NET \| Azure \| Modernization \| Microservices \| API \|*
 
 [reachtechthiru@gmail.com](mailto:reachtechthiru@gmail.com) \| +1 9729713083 \| [www.linkedin.com/in/techwiththiru](http://www.linkedin.com/in/techwiththiru)
 
-**Seasoned in** architecting and building scalable, secure, and
-resilient cloud-native applications. Proficient in Azure, APIs,
-Microservices, API Management, Distributed Systems and CI/CD
-automation---bringing deep expertise in modern DevOps practices,
-enterprise integration, and performance optimization.
+**Seasoned in** architecting and building scalable, secure, and resilient cloud-native applications. Proficient in Azure, APIs,  Microservices, API Management, Distributed Systems and CI/CD automation — bringing deep expertise in modern DevOps practices, enterprise integration, and performance optimization.
 
-**My mission** is to empower engineering teams through hands-on
-technical leadership and a clear architectural vision. I'm passionate
-about transforming legacy systems, enabling digital transformation and
-modernization, and building platforms that are resilient, agile,
-dependable, and built for the future.
+**My mission** is to empower engineering teams through hands-on technical leadership and a clear architectural vision. I'm passionate about transforming legacy systems, enabling digital transformation and modernization, and building platforms that are resilient, agile, dependable, and built for the future.
 
 #### Tech Stack
 
@@ -49,32 +41,27 @@ Architecture, Agile, SafE (scaled agile framework)*
 
 ###### Enterprise Modernization & API Ecosystem
 
-Spearheaded enterprise-wide modernization of legacy monolithic
-applications into a scalable, cloud-native API ecosystem, enabling interoperability and data sharing across business units. Set the strategic direction to shift from monolithic systems to an API-first architecture.
+Spearheaded enterprise-wide modernization of legacy monolithic applications into a scalable, cloud-native API ecosystem, enabling interoperability and data sharing across business units. Set the strategic direction to shift from monolithic systems to an API-first architecture.
 
 - Transformed legacy monoliths across Web Forms, WCF, MVC, Windows services, and desktop platforms into decoupled, API-first microservices.
 
-- Architected, built and deployed (create, re-write, migrate)
-  cloud-native APIs with .NET8 on Azure App Services, integrating with Azure API Management, Azure Frontdoor, Application Gateway, Azure Functions, Logic Apps, Key Vault and other Azure services.
+- Architected, built and deployed (create, re-write, migrate) cloud-native APIs with .NET8 on Azure App Services, integrating with Azure API Management, Azure Frontdoor, Application Gateway, Azure Functions, Logic Apps, Key Vault and other Azure services.
 
 - Implemented a hybrid architecture to support RESTful, GraphQL, and SOAP APIs, enabling smooth coexistence with legacy systems and modern client applications.
 
 ###### Deployment Strategy & High Availability
 
-Designed and implemented resilient deployment strategies with
-zero-downtime releases and enterprise-grade disaster recovery.
+Designed and implemented resilient deployment strategies with zero-downtime releases and enterprise-grade disaster recovery.
 
 - Established blue/green and multi-region deployment strategies using Azure Frontdoor, Traffic Manager, and App Service deployment slots.
 
-- Leveraged multi regions and availability zones to establish
-  active/passive/DR and failover for fault tolerance.
+- Leveraged multi regions and availability zones to establish active/passive/DR and failover for fault tolerance.
 
 - Leveraged App Services deployment slots to achieve zero-downtime releases.
 
 ###### Infrastructure as Code & Automation
 
-Implemented Infrastructure as Code (IaC) to enable repeatable,
-consistent, and automated deployments across multiple regions and environments.
+Implemented Infrastructure as Code (IaC) to enable repeatable, consistent, and automated deployments across multiple regions and environments.
 
 - Used Bicep, ARM templates, Terraform, and Helm charts to provision and manage Azure resources and Kubernetes clusters.
 
@@ -86,7 +73,7 @@ Established and directed an API Center of Excellence (CoE) and defined enterpris
 
 - Spearheaded the adoption of Design-first API development with OpenAPI specifications. Define conventions, versioning and retirement strategies, effective communication of API features, new versions and deprecations to internal and external consumers.
 
-- Utilize Azure APIM (API Management) to secure backend APIs. Publish APIs to Developer portal, manage internal and external consumers by assigning API products and Subscriptions.
+- Hands on in Azure APIM (API Management) to secure backend APIs. Publish APIs to Developer portal, manage internal and external consumers by assigning API products and Subscriptions.
 
 - Standardized Org wide APIM policies for security and compliance: impose rate limits and quotas to prevent abuse and DDoS attacks, enforce authentication and authorization with OAuth2/OIDC and JWT and Entra ID token validation, IP whitelisting, CORS enforcement etc.
 
@@ -145,7 +132,7 @@ Transformed the PTC system from a monolithic application into a distributed, clo
 
 ###### Database Design & Data Access
 
-Developed and maintained data access layers using Entity Framework/EF Core, Dapper implementing Code-First and Database-First approaches.
+Architected data access layers using Entity Framework/EF Core, Dapper implementing Code-First and Database-First approaches.
 
 - Designed Database context and entities optimized for performance with eager, lazy loading strategies.
 
@@ -161,21 +148,14 @@ Developed and maintained data access layers using Entity Framework/EF Core, Dapp
 
 ###### Architecture, Best Practices & Design Patterns
 
-Led solution design and architecture, promoting scalable, maintainable,
-and cloud-ready systems.
+Led solution design and architecture, promoting scalable, maintainable, and cloud-ready systems.
 
-- Designed applications following Clean Architecture and 12-Factor App
-  methodology, ensuring testability, scalability, and seamless
+- Designed applications following Clean Architecture and 12-Factor App methodology, ensuring testability, scalability, and seamless
   integration with COTS products.
 
-- Advocated DRY and SOLID principles, structured reusable business logic
-  through service layers and shared APIs, and applied design patterns
-  like Repository, Unit of Work, Decorator, Caching, Dependency
-  Injection, CQRS, Circuit breaker and Validation.
+- Advocated DRY and SOLID principles, structured reusable business logic through service layers and shared APIs, and applied design patterns like Repository, Unit of Work, Decorator, Caching, Dependency Injection, CQRS, Circuit breaker and Validation.
 
-- Promoted Test-Driven Development (TDD) and Domain-Driven Design (DDD)
-  for maintainable application architecture aligned with modern web
-  standards.
+- Promoted Test-Driven Development (TDD) and Domain-Driven Design (DDD) for maintainable application architecture aligned with modern web standards.
 
 **Tech Stack:**
 
@@ -209,7 +189,7 @@ Provided the overall architecture and built self-service APIs to accelerate prov
 
 - Utilize Apigee to securely expose backend APIs. Publish APIs to the Developer portal, and enable discoverability across business units. Control access, monitor usage, manage internal and external consumers by assigning products and subscriptions.
 
-- Standardized Org wise policies for security and compliance: impose rate limits and quotas to prevent abuse and DDoS attacks, enforce authentication and authorization with OAuth2/OIDC and JWT and Entra ID token validation, IP whitelisting, CORS enforcement etc.
+- Standardized Org wide policies for security and compliance: impose rate limits and quotas to prevent abuse and DDoS attacks, enforce authentication and authorization with OAuth2/OIDC and JWT and Entra ID token validation, IP whitelisting, CORS enforcement etc.
 
 - Standardized API lifecycle management by integrating Spectral and ApiOps, implementing policies as code, and embedding them into CI/CD pipelines for automated deployment to Azure API Management (APIM).
 
@@ -255,7 +235,7 @@ Established centralized observability and code quality practices to enhance reli
 
 ###### Database Design & Data Access
 
-Developed and maintained data access layers using Entity Framework / EF Core, implementing Code-First and Database-First approaches.
+Architected data access layers using Entity Framework / EF Core, implementing Code-First and Database-First approaches.
 
 - Designed SQL Server Database, DB context and entities optimized for performance with eager, lazy loading strategies
 
@@ -285,8 +265,7 @@ Led solution design and architecture, promoting scalable, maintainable, and clou
 
 **Tech Stack:**
 
-*.NET 6, ASP .NET Core, Web APIs, C#, MVC, Splunk, Application Insights, Azure Monitor, Sonarqube SAST, Azure, Microservices, Docker, Kubernetes, Containers, Terraform, Bicep, ARM templates, EKS, AKS, Open API 3.0, Azure App Services, Azure API Management, Functions, Logic Apps, Azure
-Monitor, Application Insights, Splunk, Azure Service Bus, RabbitMQ, Redis Cache, Azure Kubernetes Services AKS, Azure AD (Active Directory), Azure Blob storage, OAuth2, Key Vault, REST, CQRS, CI/CD, Github Actions, Jenkins, Spectral, Prism, MockServer, Postman, Newman, Application Insights, Splunk, SQL Server, Cosmos DB, Dapper, Entity Framework, Code first, DB first & Migrations, JSON, AGILE/SAFe/SCRUM, Git, Visual Studio, Visual Studio Code, Xunit, TDD, Object oriented programming principles*
+*.NET 6, ASP .NET Core, Web APIs, C#, MVC, Splunk, Application Insights, Azure Monitor, Sonarqube SAST, Azure, Microservices, Docker, Kubernetes, Containers, Terraform, Bicep, ARM templates, EKS, AKS, Open API 3.0, Azure App Services, Azure API Management, Functions, Logic Apps, Azure Monitor, Application Insights, Splunk, Azure Service Bus, RabbitMQ, Redis Cache, Azure Kubernetes Services AKS, Azure AD (Active Directory), Azure Blob storage, OAuth2, Key Vault, REST, CQRS, CI/CD, Github Actions, Jenkins, Spectral, Prism, MockServer, Postman, Newman, Application Insights, Splunk, SQL Server, Cosmos DB, Dapper, Entity Framework, Code first, DB first & Migrations, JSON, AGILE/SAFe/SCRUM, Git, Visual Studio, Visual Studio Code, Xunit, TDD, Object oriented programming principles*
 
 ##### Architect - Applications and Cloud Solutions
 
@@ -346,7 +325,7 @@ Responsible for the overall Architecture and built the composite utility billing
 
 ##### Fullstack Engineer \| Technology Lead \| Architect
 
-*Infosys, JcPenney, Sysco corp, BNSF Railway, Fort Worth, TX - Nov 2007 - Dec 2016*
+*Infosys, JcPenney, Sysco corp, BNSF Railway, Fort Worth, TX - Jun 2005 - Apr 2016*
 
 - Developed dynamic web applications using ASP.NET MVC with a strong emphasis on modularity and maintainability.
 
