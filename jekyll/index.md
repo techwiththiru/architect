@@ -1,271 +1,218 @@
-#### Thirunarayanan Sowrirajan (Thiru)
+## Thiru Sowrirajan
 
-*Solutions Architect \| .NET \| Azure \| Modernization \| Microservices \| API \|*
+*Full Stack Architect \| Azure & Cloud Solutions \| Driving Legacy Modernization & DevOps \| API Strategy & Governance*
 
 [reachtechthiru@gmail.com](mailto:reachtechthiru@gmail.com) \| +1 9729713083 \| [www.linkedin.com/in/techwiththiru](http://www.linkedin.com/in/techwiththiru)
 
-**Seasoned in** architecting and building scalable, secure, and resilient cloud-native applications. Proficient in Azure, APIs,  Microservices, API Management, Distributed Systems and CI/CD automation — bringing deep expertise in modern DevOps practices, enterprise integration, and performance optimization.
+## Summary
 
-**My mission** is to empower engineering teams through hands-on technical leadership and a clear architectural vision. I'm passionate about transforming legacy systems, enabling digital transformation and modernization, and building platforms that are resilient, agile, dependable, and built for the future.
+As an Architect, specializing in enterprise modernization, I lead the transformation of legacy systems into scalable, cloud-native architectures across industries.  
 
-#### Tech Stack
+My strategic approach leverages architectural principles like Infrastructure as Code (IaC), Domain-Driven Design (DDD), event-driven architecture, resilience fault-tolerance and disaster recovery (DR) to ensure reliability and high availability of systems.
 
-*C#, .NET 8, .NET6, .NET Core, ASP.NET, Web API, MVC*
+I drive end-to-end solution design. My work blends high-level strategy with practical, hands-on delivery spanning architecture, solution consulting, prototypes/proofs of concept through detailed implementation, testing, deployment and team engagement — with a strong emphasis on non-functional requirements (security, performance, availability) and best practices.
 
-*SQL Server, Azure SQL, CosmosDB, MongoDB, Redis, Entity Framework, Dapper, Stored procedures, Functions, Triggers, DDL, DML, SSIS*
+## Key Achievements
 
-*CI/CD, Azure Devops, Azure Pipelines, Github Actions, Jenkins, GitOps, YAML, Sonarqube SAST*
+**Enterprise Modernization:** Led the successful transformation of multiple legacy monolithic systems (web forms, WCF, desktop apps, etc.) into a modern microservices, microfrontend and API ecosystem, enabling data sharing and interoperability across business units.
 
-*REST, JSON, Swagger, OpenAPI, xUnit, Postman, Spectral, Prism, MockServer, Newman, XML, SOAP*
+**Cost Reduction & Efficiency:** Reduced infrastructure and operational costs by ~30–40% and accelerated release cycles by ~25–30% by decoupling systems and components, implementing continuous delivery, and leveraging serverless/auto-scaling solutions.
 
-*Azure APIM (API Management), Apigee, Mulesoft (Design Center, Runtime Manager, API Manager.)*
+**Security Improvements:** Achieved a 33–35% reduction in production security incidents by standardizing DevOps pipelines, automating API governance, and integrating SAST (static analysis) into the CI/CD process.
 
-*Containers, Docker, Kubernetes, Terraform, Bicep, ARM Templates, Infrastructure as Code (IaC), AKS (Azure Kubernetes Service), EKS (Elastic Kubernetes Service)*
+**Vendor Independence:** Delivered over $100K in annual savings by re-architecting critical third-party functionality in-house. This eliminated licensing fees, mitigated vendor risk, and allowed more flexible feature development and faster time-to-market.
 
-*Microservices, RabbitMQ, Azure Service Bus, Masstransit, Event driven architecture, Distributed systems architecture*
+**Business Growth Enablement:** Modernized legacy client applications into scalable cloud-native solutions on Azure, contributing to a ~30% increase in customer base and revenue growth.
 
-*Azure, Azure App Services, Azure Application Gateway, Azure Front Door, Traffic manager, Azure Virtual Machines (VM), Azure Functions, Logic Apps, Serverless, Container Apps, Key Vault, Azure Monitor, Entra ID, Azure AD(Active Directory), PaaS, IaaS, Azure Storage*
+**Resilient Architecture:** Deployed high-availability, multi-region solutions using Azure Kubernetes Service (AKS), Terraform/Helm for repeatable infrastructure, and multi-zone disaster recovery. Supported a 30–35% spike in active users while reducing infrastructure spend by ~30%.
 
-*Grafana, Loki, Splunk, Application Insights, Azure Monitor, Azure Log Analytics Workspaces, Grafana Dashboards, Visualizations*
+**API & Microservices Design:** Migrated critical systems to event-driven and  service-oriented architecture, integrating API Management for seamless interoperability. Built asynchronous pipelines with message brokers, and implemented domain models and bounded contexts using Entity Framework Fluent API.
 
-*Design patterns, DDD, TDD, XUnit, SOLID, 12 Factor App, Clean
-Architecture, Agile, SafE (scaled agile framework)*
+**Team Leadership & Delivery:** Regularly conducted architecture/design reviews, mentored engineering teams, and created technical roadmaps. Produced prototypes and POCs to validate solutions early, and ensured all deliverables met quality standards through thorough testing and peer reviews.
 
-*Authorization, Authentication, Role Based Access Control (RBAC), OAuth2, OpenId Connect(OIDC)*
+## Career Summary
 
-#### Career Summary
+### Architect - Applications and Cloud Solutions
 
-##### Architect - Applications and Cloud Solutions
+#### BNSF Railway, Atlanta GA - Jan 2024 - Present
 
-*BNSF Railway, Atlanta GA - Jan 2024 - Present*
+##### PTC (Positive Train Control) & Trainsheets Practice Modernization
 
-###### Enterprise Modernization & API Ecosystem
+**Cloud Platforms & Infrastructure:** Architect and deploy Microsoft Azure services (App Services, Azure Functions, AKS, Container Apps, Logic Apps, Application Gateway, Front Door, Traffic Manager, Key Vault, etc.) and cloud-native patterns (IaaS/PaaS, multi-region deployments, auto-scaling). Utilize infrastructure-as-code using Terraform, Bicep, and ARM Templates.
 
-Spearheaded enterprise-wide modernization of legacy monolithic applications into a scalable, cloud-native API ecosystem, enabling interoperability and data sharing across business units. Set the strategic direction to shift from monolithic systems to an API-first architecture.
+**Programming & Frameworks:** Expert in C# and .NET (.NET 8, .NET 6, .NET Core, .NET Framework 4.8) for building web applications, APIs, and microservices (ASP.NET MVC/Web API).
 
-- Transformed legacy monoliths across Web Forms, WCF, MVC, Windows services, and desktop platforms into decoupled, API-first microservices.
+**Systems & Integration:** Design and implement event-driven microservices with asynchronous messaging (Kafka, RabbitMQ, Azure Service Bus, MassTransit, Eventuate) and hybrid API strategies (REST, SOAP, GraphQL). Employ patterns like Domain Events, CQRS, and Transactional Outbox for data consistency. Leverage API Management (Azure APIM, Apigee), Swagger/OpenAPI, and tools (Postman, Newman, Spectral, MockServer) for API governance and testing.
 
-- Architected, built and deployed (create, re-write, migrate) cloud-native APIs with .NET8 on Azure App Services, integrating with Azure API Management, Azure Frontdoor, Application Gateway, Azure Functions, Logic Apps, Key Vault and other Azure services.
+**DevOps & CI/CD:** Build automated pipelines with Azure DevOps, GitHub Actions, Jenkins, and GitOps workflows. Integrate SonarQube SAST and quality gates to enforce coding standards and security checks. Manage source control with Git/GitHub/TFS and use YAML for pipeline definitions.
 
-- Implemented a hybrid architecture to support RESTful, GraphQL, and SOAP APIs, enabling smooth coexistence with legacy systems and modern client applications.
+**Data & Storage:** Expert in relational databases (SQL Server, Azure SQL, PostgreSQL) and NoSQL (Cosmos DB, Redis). Skilled in Entity Framework (code-first and database-first), Dapper, and writing optimized SQL (complex joins, CTEs, window functions). Implement stored procedures, triggers, and query tuning for performance.
 
-###### Deployment Strategy & High Availability
+**Security & Identity:** Implement authentication and authorization using OAuth2, OpenID Connect (OIDC), and JWTs, enforcing Role-Based Access Control (RBAC) with Azure AD/Entra ID and Azure AD B2C. Secure services with mTLS and client certificates, and manage secrets/configuration via Azure Key Vault.
 
-Designed and implemented resilient deployment strategies with zero-downtime releases and enterprise-grade disaster recovery.
+**Monitoring & Observability:** Set up logging and metrics collection with Application Insights, Azure Monitor, Log Analytics, Grafana, and Loki. Create dashboards and alerts for proactive health checks and fast issue resolution.
 
-- Established blue/green and multi-region deployment strategies using Azure Frontdoor, Traffic Manager, and App Service deployment slots.
+**Software Practices & Methodologies:** Advocate Agile and SAFe processes, Test-Driven Development (TDD) with xUnit, and strong design principles (DRY, SOLID). Utilize design patterns (Repository, Unit of Work, Decorator, Caching, Dependency Injection) to create maintainable code. Emphasize 12-factor application development and domain-driven design for clean, testable architectures.
 
-- Leveraged multi regions and availability zones to establish active/passive/DR and failover for fault tolerance.
+##### Tech Stack
 
-- Leveraged App Services deployment slots to achieve zero-downtime releases.
+**Languages & Frameworks:**
 
-###### Infrastructure as Code & Automation
+C#, .NET 8, .NET 6, .NET Core, .NET Framework (4.8, 4.6), Web API, TypeScript, JavaScript, HTML5, CSS3
 
-Implemented Infrastructure as Code (IaC) to enable repeatable, consistent, and automated deployments across multiple regions and environments.
+**Frontend Development:**
 
-- Used Bicep, ARM templates, Terraform, and Helm charts to provision and manage Azure resources and Kubernetes clusters.
+Angular (v18), Micro Frontends, Nx, Responsive UI, SPA Development
 
-- Embedded IaC into CI/CD pipelines to automate deployments, versioning, and rollback.
+**Cloud & Platform Services:**
 
-###### API Center of Excellence & Governance
+Azure (App Services, Functions, Logic Apps, Application Gateway, Front Door, Key Vault, Blob Storage), Azure AD, Azure AD B2C, Entra ID, PaaS, IaaS, Serverless
 
-Established and directed an API Center of Excellence (CoE) and defined enterprise-wide API governance, standards, and lifecycle management.
+**Architecture & Design:**
 
-- Spearheaded the adoption of Design-first API development with OpenAPI specifications. Define conventions, versioning and retirement strategies, effective communication of API features, new versions and deprecations to internal and external consumers.
+Microservices, Event-Driven Architecture, CQRS, Sagas, Aggregates, Bounded Contexts, Domain-Driven Design (DDD), Asynchronous Communication, Clean, Hex Architecture, SOLID, 12-Factor App
 
-- Hands on in Azure APIM (API Management) to secure backend APIs. Publish APIs to Developer portal, manage internal and external consumers by assigning API products and Subscriptions.
+**Infrastructure & DevOps:**
 
-- Standardized Org wide APIM policies for security and compliance: impose rate limits and quotas to prevent abuse and DDoS attacks, enforce authentication and authorization with OAuth2/OIDC and JWT and Entra ID token validation, IP whitelisting, CORS enforcement etc.
+Terraform, Bicep, ARM Templates, Infrastructure as Code (IaC), CI/CD, Azure DevOps, Azure Pipelines, GitHub Actions, GitOps, YAML, SonarQube (SAST), Git, GitHub, TFS
 
-- Standardized API lifecycle management by integrating Spectral and ApiOps, implementing policies as code, and embedding them into CI/CD pipelines for automated deployment to Azure API Management (APIM).
+**API Management & Integration:**
 
-- Designed policies to transform payloads (JSON - XML - SOAP), apply XSL templates, and validate requests/responses against schemas for interoperability and prevent data leaks.
+Azure API Management (APIM), OpenAPI/Swagger, REST, SOAP, GraphQL, Postman, Spectral
 
-- Defined RBAC and fine-grained scopes to secure critical business workflows.
+**Messaging & Asynchronous Systems:**
 
-- Integrated Azure virtual networks, private endpoints, and service endpoints to secure traffic flows and enforce isolation.
+Kafka, RabbitMQ, MassTransit, Eventual Consistency, Transactional Outbox
 
-###### DevOps Integration - CI/CD
+**Security & Access management:**
 
-- Established standardized Devops principles using Azure Devops pipelines, Github actions. Integrate tools such as Spectral (linting), Prism (mocking) to validate OpenApi specifications, run Postman tests against specifications to validate API contracts.
+OAuth2, OpenID Connect (OIDC), RBAC, Authentication & Authorization, Azure AD, B2C, Entra ID, Entra ID External
 
-- Integrate SAST scans using Sonarqube in build pipelines and pull requests, establish quality gates and profiles to vet source code to ensure vulnerabilities are detected and rectified before being pushed to Github and also not propagated to production environments.
+**Monitoring & Observability:**
 
-###### Security
+Azure Monitor, Application Insights, Azure Log Analytics, Splunk, Grafana, Loki, Grafana Dashboards & Visualizations
 
-- Implement robust API security standards based on OpenID Connect (OIDC) for authentication, OAuth2 and JWT for token-based authorization, SAML-based SSO integrations, scopes and Role Based Access Control (RBAC) for fine-grained authorization.
+**Data & Storage:**
 
-- Integrated OIDC/OAuth2, mTLS, and client certificates, implementing flows such as Authorization Code, PKCE and Client Credentials.
+SQL Server, Azure SQL, Redis, Entity Framework (Code-first / DB-first), Dapper, Stored Procedures, Functions, Triggers, Complex Queries, Joins, CTE, DDL, DML, SSIS
 
-- Enforced RBAC and scopes with Microsoft Entra ID to secure critical business workflows.
+**Testing & Quality:**
 
-- Store application configuration values in Azure Key Vault and integrate with APIM, App Services and Function Apps.
+xUnit, Unit Tests, Integration Tests, Test-Driven Development (TDD), Quality Gates
 
-###### Performance & Observability
+**Design Patterns & Principles:**
 
-- Establish monitoring and logging of Metrics, Resource logs, Activity logs and alerting for APIM and App services, with Grafana Loki, Application insights, Azure Monitor, Azure Analytics Workspaces and Grafana Visualizations, Explore and Dashboards.
+Singleton, Factory, Repository, Unit of Work, CQRS, Saga, Circuit Breaker
 
-- Enable response caching for faster response times of APIs. Adopted async processing, load balancing to increase efficiency and improve user experience.
+**Methodologies:**
 
-###### Trainsheets System Modernization
+Agile, Scrum, DevOps Culture, Continuous Delivery
 
-Architected and modernized Trainsheets into a scalable, cloud-native, microservices-based solution, enabling modular development and enterprise-wide integration.
+### Architect - Applications and Cloud Solutions
 
-- Transformed the monolithic system into single page applications (SPAs) built on Angular and backed by RESTful and GraphQL APIs built on .NET Core, enabling coexistence of SOAP, REST, and GraphQL for legacy and modern clients.
+#### Deloitte, Atlanta GA - Sep 2019 - Dec 2023
 
-- Adopted a Backend-for-Frontend (BFF) model, decomposing services into domain-driven microservices using CQRS, Polly, MassTransit, RabbitMQ, and circuit breaker patterns for async, event-driven workflows.
+##### Self-Service APIs Initiative & Automation
 
-- Deployed services on Azure App Services, Azure Functions, Logic Apps, and API Management, leveraging APIM as the API gateway and Application Gateway for L7 load balancing and WAF for routing, failover and fault tolerance.
+- Defined the end-to-end architecture for a self-service Azure provisioning platform that became the foundation for Deloitte’s enterprise cloud enablement strategy. The solution standardized how development teams provision and manage Azure infrastructure across business units—removing dependency on manual portal access and eliminating inconsistencies across environments.
 
-###### Positive Train Control (PTC) Modernization
+**Key Outcomes:**
 
-Transformed the PTC system from a monolithic application into a distributed, cloud-native solution.
+- Reduced environment setup time by 70% and achieved enterprise-wide consistency in infrastructure configuration, tagging, and policy enforcement.
 
-- Adopted microservices architecture with Docker containers orchestrated via AKS, applying IaC with Terraform and Helm charts for repeatable deployments.
+- Enforcing a tagging and lifecycle standard and with automated discovery (Resource Graph/Cost API + scheduled jobs) to identify orphaned or idle resources, allowed safe retirement of stale assets on a schedule, recovered unused capacity, and reduced recurring costs.
 
-- Architected and implemented asynchronous communication with
-  async/await, separation of concerns with CQRS, fault tolerance with Polly, RabbitMQ for message based communication.
+- Established reusable architectural blueprints for cloud-native application onboarding, now used across multiple projects and client engagements.
 
-- Supported SOAP, REST, and GraphQL APIs for integration with legacy systems and modern digital platforms.
+**Enterprise Cloud & Platform Architecture:**
 
-- Achieved high availability, automated scaling, and disaster recovery through AKS orchestration and multi-region deployment strategies.
+- Established cloud provisioning as a product, defining service boundaries, ownership models, and integration with enterprise CI/CD and compliance workflows.
 
-###### Database Design & Data Access
+- Directed multi-disciplinary teams (developers, DevOps, and security engineers) to translate architectural standards into reusable components and automation frameworks.
 
-Architected data access layers using Entity Framework/EF Core, Dapper implementing Code-First and Database-First approaches.
+**API Governance & Center of Excellence (CoE):**
 
-- Designed Database context and entities optimized for performance with eager, lazy loading strategies.
+- Led the creation of the API Center of Excellence, defining standards for design, versioning, discoverability, and lifecycle management of APIs across internal and client engagements. Ensured alignment of API strategy with digital transformation and modernization initiatives.
 
-- Designed, developed, and optimized complex SQL queries involving joins, CTEs, subqueries, and window functions and views.
+- Defined the API governance model—covering design standards (OpenAPI), security policies (OAuth2, OIDC), and deployment practices (APIOps). Instituted API lifecycle management using Apigee and Azure API Management, ensuring controlled exposure (rate limits and quotas) and consumer onboarding through Developer Portal.
 
-- Implemented stored procedures, user-defined functions, triggers to encapsulate business logic and improve application performance.
+- Reduced API contract defects by 30% through adoption of contract-first design, automated linting, mocking, and testing within CI/CD and Pull Requests.
 
-- Performed query tuning and performance optimization using execution plans, query plans, and index strategies (clustered, non-clustered).
+**DevOps & Infrastructure as Code Strategy:**
 
-- Integrated Cosmos DB with .NET microservices and Azure Functions.
+- Architected and governed enterprise Infrastructure-as-Code (IaC) standards, ensuring automation, compliance, and traceability from code to cloud using Terraform, Bicep, ARM Templates.
 
-- Wrote and optimized parameterized queries, stored procedure calls, and result mapping with Dapper.
+- Standardized CI/CD frameworks across projects using Azure DevOps and GitHub Actions, embedding automated validation, policy enforcement, and rollback capabilities.
 
-###### Architecture, Best Practices & Design Patterns
+- Integrated quality gates and security scanning (SonarQube SAST, Spectral, Postman validation) into pipelines, shifting compliance left and reducing deployment vulnerabilities by 35%.
 
-Led solution design and architecture, promoting scalable, maintainable, and cloud-ready systems.
+**Security Architecture & Compliance:**
 
-- Designed applications following Clean Architecture and 12-Factor App methodology, ensuring testability, scalability, and seamless
-  integration with COTS products.
+- Defined the security architecture for applications and APIs within Deloitte’s cloud modernization initiatives—ensuring consistent identity, access, and compliance enforcement.
 
-- Advocated DRY and SOLID principles, structured reusable business logic through service layers and shared APIs, and applied design patterns like Repository, Unit of Work, Decorator, Caching, Dependency Injection, CQRS, Circuit breaker and Validation.
+- Established enterprise-wide authentication and authorization frameworks using OAuth2, OIDC, and SAML with Azure AD/Entra ID and Azure AD B2C. Defined RBAC models and scope hierarchies to align application permissions with least-privilege and Zero Trust principles.
 
-- Promoted Test-Driven Development (TDD) and Domain-Driven Design (DDD) for maintainable application architecture aligned with modern web standards.
+- Governed secret and configuration management through Azure Key Vault integrations across all application tiers. Enhanced security posture by standardizing mTLS, certificate-based authentication, and enforcing API security policies through APIM and Apigee gateways.
 
-**Tech Stack:**
+**Observability & Performance Architecture:**
 
-*.NET 8, ASP .NET Core, Web APIs, C#, MVC, REST, GraphQL, Azure, Microservices, Docker, Kubernetes, Containers, Azure Kubernetes Service AKS, Terraform, Bicep, ARM templates, Open API 3.0, Azure App Services, Azure Functions, Logic Apps, Azure Monitor, Application Insights, Grafana, Loki, Azure Service Bus, RabbitMQ, Redis Cache, Key Vault, CI/CD, Github Actions, Sonarqube SAST, Spectral, Prism, MockServer, Postman, Newman, Azure AD (Active Directory), OAuth2, SQL Server, Cosmos DB, Azure Storage, Blob, Dapper, Entity Framework, Code first, DB first & Migrations, JSON, Design Patterns, Object oriented programming principles, SOLID, DRY, Clean Architecture, 12 Factor App, Domain Driven Design DDD, Test Driven Development TDD, async/await, CQRS, Circuit breaker, Dependency Injection, Xunit AGILE/SAFe/SCRUM, Git, Visual Studio, Visual Studio Code*
+- Enabled full-stack observability as an architectural principle across Deloitte’s cloud platforms. Defined monitoring and alerting architecture leveraging Azure Monitor, Application Insights, Log Analytics, and Grafana for unified visibility across environments.
 
-##### Architect -- Applications and Cloud Solutions
+- Instituted proactive performance monitoring through automated health checks. Established performance baselines and non-functional requirements (NFRs) to ensure scalability, fault tolerance, and availability.
 
-*Deloitte, Atlanta GA - Sep 2019 - Dec 2023*
+##### Tech Stack
 
-###### Self-Service APIs Initiative & Automation
+**Languages & Frameworks:**
 
-Provided the overall architecture and built self-service APIs to accelerate provisioning of Azure infrastructure.
+C#, .NET 8, .NET 6, .NET Core, .NET Framework (4.8, 4.6), Web API, TypeScript, JavaScript, HTML5, CSS3
 
-- This initiative enabled development teams to rapidly provision Azure infrastructure without having to access the Azure portal or use individual subscriptions or shared credentials and also achieve org wide consistency in managing Azure resources.
+**Frontend Development:**
 
-- Led architecture, design and defined standards adopted by development teams, enabling rapid provisioning of subscriptions, resource groups, virtual machines, and related services to achieve org wide consistency.
+Angular (v18), Micro Frontends, Nx, Responsive UI, SPA Development
 
-- Architected and built APIs to run on Azure using C#, .NET Core, ASP .NET Web APIs, MVC, SQL Server, Dapper, Entity Framework, REST, JSON, Swagger, and OpenAPI.
+**Cloud & Platform Services:**
 
-- Implemented asynchronous workflows using async/await, RabbitMQ, gRPC, improving responsiveness and throughput under high-load conditions.
+Azure (App Services, Functions, Logic Apps, Application Gateway, Front Door, Key Vault, Blob Storage), Azure AD, Azure AD B2C, Entra ID, PaaS, IaaS, Serverless
 
-- Championed and established a Design-first API approach by emphasising development teams to write API definitions/contracts first, using OpenAPI specifications, integrating Spectral (linting), Prism (mocking), MockServer, Postman, and Newman for validation, testing, into CI/CD deployment automation.
+**Architecture & Design:**
 
-- Deployed APIs to Azure app services, Azure functions. Built time triggered functions to run scheduled jobs using cron expressions. Leveraged durable functions to orchestrate resource provisioning workflow along with Activity functions, Entity functions and Durable clients.
+Microservices, Event-Driven Architecture, CQRS, Sagas, Aggregates, Bounded Contexts, Domain-Driven Design (DDD), Asynchronous Communication, Clean, Hex Architecture, SOLID, 12-Factor App
 
-- Leveraged Apigee API Management to expose APIs securely. Applied policies in Apigee to configure gateways, define APIs using OpenAPI specifications, import APIs, publish to developer portal, organize API products, environment groups and environments and manage subscriptions.
+**Infrastructure & DevOps:**
 
-###### Apigee & API Management
+Terraform, Bicep, ARM Templates, Infrastructure as Code (IaC), CI/CD, Azure DevOps, Azure Pipelines, GitHub Actions, GitOps, YAML, SonarQube (SAST), Git, GitHub, TFS
 
-- Spearheaded the adoption of Design-first API development. Define conventions, versioning and retirement strategies, effective communication of API features, new versions and deprecations to internal and external consumers.
+**API Management & Integration:**
 
-- Utilize Apigee to securely expose backend APIs. Publish APIs to the Developer portal, and enable discoverability across business units. Control access, monitor usage, manage internal and external consumers by assigning products and subscriptions.
+Azure API Management (APIM), OpenAPI/Swagger, REST, SOAP, GraphQL, Postman, Spectral
 
-- Standardized Org wide policies for security and compliance: impose rate limits and quotas to prevent abuse and DDoS attacks, enforce authentication and authorization with OAuth2/OIDC and JWT and Entra ID token validation, IP whitelisting, CORS enforcement etc.
+**Messaging & Asynchronous Systems:**
 
-- Standardized API lifecycle management by integrating Spectral and ApiOps, implementing policies as code, and embedding them into CI/CD pipelines for automated deployment to Azure API Management (APIM).
+Kafka, RabbitMQ, MassTransit, Eventual Consistency, Transactional Outbox
 
-- Designed policies to transform payloads (JSON - XML - SOAP), apply XSL templates, and validate requests/responses against schemas for interoperability and prevent data leaks.
+**Security & Access management:**
 
-- Defined RBAC and fine-grained scopes to secure critical business workflows.
+OAuth2, OpenID Connect (OIDC), RBAC, Authentication & Authorization, Azure AD, B2C, Entra ID, Entra ID External
 
-###### Infrastructure as Code & Containerized Deployments
+**Monitoring & Observability:**
 
-Implemented Infrastructure-as-Code (IaC) principles for automated, scalable, and consistent deployments of resources.
+Azure Monitor, Application Insights, Azure Log Analytics, Splunk, Grafana, Loki, Grafana Dashboards & Visualizations
 
-- Provisioned infrastructure using Docker, Kubernetes, Terraform, and deployed services on AWS Elastic Kubernetes Service (EKS).
+**Data & Storage:**
 
-- Embedded IaC and deployment pipelines into CI/CD processes for repeatable deployments, versioning, and rollback.
+SQL Server, Azure SQL, Redis, Entity Framework (Code-first / DB-first), Dapper, Stored Procedures, Functions, Triggers, Complex Queries, Joins, CTE, DDL, DML, SSIS
 
-###### DevOps Integration - CI/CD
+**Testing & Quality:**
 
-- Create build and deployment pipelines using Azure DevOps, Azure pipelines, GitHub Actions, and Jenkins, enforcing OWASP rules, code quality gates, and repository scanning for Angular (TypeScript) and C# projects.
+xUnit, Unit Tests, Integration Tests, Test-Driven Development (TDD), Quality Gates
 
-- Integrate SAST scans using Sonarqube in build pipelines and pull requests, establish quality gates and profiles to vet source code to ensure vulnerabilities are detected and rectified before being pushed to Github and also not propagated to production environments.
+**Design Patterns & Principles:**
 
-- Ensure code coverage and IDE-level quality using Visual Studio and VS Code, mitigating code injection risks and improving maintainability.
+Singleton, Factory, Repository, Unit of Work, CQRS, Saga, Circuit Breaker
 
-###### Security
+**Methodologies:**
 
-Ensured enterprise-grade API security and optimal performance across services.
-
-- Implement robust API security standards based on OpenID Connect (OIDC) for authentication, OAuth2 and JWT for token-based authorization, SAML-based SSO integrations, Role Based Access Control (RBAC) for fine-grained authorization.
-
-- Integrated OIDC/OAuth2, mTLS, and client certificates, implementing flows such as Authorization Code, PKCE and Client Credentials.
-
-- Enforced RBAC and scopes with Microsoft Entra ID to secure critical business workflows.
-
-- Store application configuration in Azure Key Vault and integrate with APIM App Services and Azure Functions.
-
-###### Observability & Performance Optimization
-
-Established centralized observability and code quality practices to enhance reliability, maintainability, and operational insights.
-
-- Optimized API performance using Redis caching, significantly reducing response times and improving end-user experience.
-
-- Collected logs and metrics with Splunk, Azure Application Insights, and Azure Blob Storage, establishing alerts and dashboards for real-time monitoring and incident response.
-
-###### Database Design & Data Access
-
-Architected data access layers using Entity Framework / EF Core, implementing Code-First and Database-First approaches.
-
-- Designed SQL Server Database, DB context and entities optimized for performance with eager, lazy loading strategies
-
-- Designed, developed, and optimized complex SQL queries, joins, CTEs, subqueries, and window functions and views .
-
-- Implemented stored procedures, user-defined functions, triggers to encapsulate business logic.
-
-- Performed query tuning and performance optimization using execution plans, query plans, and index strategies (clustered, non-clustered).
-
-- Wrote and optimized parameterized queries, stored procedure calls, and result mapping with Dapper.
-
-- Implemented LINQ-to-Entities for clean, maintainable, and testable data access logic.
-
-- Integrated Cosmos DB with .NET microservices and Azure Functions, ensuring low-latency, high-availability solutions.
-
-###### Architecture, Best Practices & Design Patterns
-
-Led solution design and architecture, promoting scalable, maintainable, and cloud-ready systems.
-
-- Directed end-to-end solution architecture, ensuring systems were scalable, maintainable, and optimized for cloud adoption.
-
-- Engineered applications using Clean Architecture and 12-Factor principles, enabling testability, modularity, and seamless integration.
-
-- Established coding best practices with DRY and SOLID principles, implementing reusable service layers and shared APIs, and applying proven design patterns (Repository, Unit of Work, Decorator, Dependency Injection, Caching, async/await, CQRS, Circuit Breaker, Retries, Validation etc.).
-
-- Advanced modern engineering practices such as Test-Driven Development (TDD) and Domain-Driven Design (DDD), driving resilient, domain-aligned application design that supported long-term agility and maintainability.
-
-**Tech Stack:**
-
-*.NET 6, ASP .NET Core, Web APIs, C#, MVC, Splunk, Application Insights, Azure Monitor, Sonarqube SAST, Azure, Microservices, Docker, Kubernetes, Containers, Terraform, Bicep, ARM templates, EKS, AKS, Open API 3.0, Azure App Services, Azure API Management, Functions, Logic Apps, Azure Monitor, Application Insights, Splunk, Azure Service Bus, RabbitMQ, Redis Cache, Azure Kubernetes Services AKS, Azure AD (Active Directory), Azure Blob storage, OAuth2, Key Vault, REST, CQRS, CI/CD, Github Actions, Jenkins, Spectral, Prism, MockServer, Postman, Newman, Application Insights, Splunk, SQL Server, Cosmos DB, Dapper, Entity Framework, Code first, DB first & Migrations, JSON, AGILE/SAFe/SCRUM, Git, Visual Studio, Visual Studio Code, Xunit, TDD, Object oriented programming principles*
+Agile, Scrum, DevOps Culture, Continuous Delivery
 
 ##### Architect - Applications and Cloud Solutions
 
@@ -273,19 +220,9 @@ Led solution design and architecture, promoting scalable, maintainable, and clou
 
 ###### Monolith Decomposition & Microservices Modernization
 
-- Modernized monolithic, web forms based payment processing services into scalable, distributed microservices.
-
-- Transformed web forms based applications into single page applications (SPA) with Angular. Typescript, HTML5, CSS3, Bootstrap.
-
-- Architected and built the backend as RESTful APIs with .NET Core 2.0, Web API, MVC, C#, and JSON. Integrated the user experience with backend APIs for virtual terminal application using Angular\'s HttpClient. Implemented interceptors for authentication tokens and centralized error handling.
-
-- Designed a nested routing structure for multi-level views (e.g., Store, POS, Merchant administration, Approvals). Configured lazy loading of feature modules to optimize performance and reduce initial load time. Established route guards to provide access control to protected routes and screens/views.
-
-- Built the backend as microservices and deployed to Azure App services.
-
-- Architected and implemented asynchronous workflows using async/await and CQRS patterns, improving responsiveness and throughput under high-load conditions.
-
-- Applied response caching to optimize API performance, significantly reducing response times and improving end-user experience.
+Led modernization of legacy, Web Forms–based payment processing into a scalable, cloud-native microservices architecture on Azure.
+Defined modernization roadmap and domain boundaries; decomposed monolith into independently deployable .NET Core REST APIs.
+Established SPA front-end architecture using Angular with lazy loading, route guards, and token-based authentication.
 
 ##### Architect -- Applications and Cloud Solutions
 
@@ -293,61 +230,28 @@ Led solution design and architecture, promoting scalable, maintainable, and clou
 
 ###### Architected and delivered a vendor-agnostic platform rewrite
 
-- Replaced a third-party solution to ensure long-term sustainability and reduce the risk of vendor deprecation and end of support.
-
-- Achieved significant cost savings and agility. Reduced total cost of ownership TCO by eliminating license fees and proprietary maintenance overhead, enabling faster business-driven enhancements.
-
-- Re-engineered critical functionalities into a modern SPA. Built with Angular, HTML5, CSS3, Angular Material, Bootstrap; tested with Jasmine & Karma.
-
-- Developed secure, scalable backend services. Built RESTful APIs with ASP.NET Core Web API, MVC, C#, using JSON; implemented OAuth2, JWT, and RBAC for security.
-
-- Optimized database performance with SQL Server. Created and tuned stored procedures, UDFs, and complex queries for high efficiency and reliability.
+Architected and delivered a vendor-agnostic platform rewrite
+Replaced a third-party solution to ensure long-term sustainability and reduce the risk of vendor deprecation and end of support.
+Achieved significant cost savings and agility
+Reduced total cost of ownership TCO by eliminating license fees and proprietary maintenance overhead, enabling faster business-driven enhancements.
 
 ##### Architect
 
 Znalytics, Alpharetta GA - Apr 2016 - Nov 2016
 
-###### Built from Scratch
-
-Responsible for the overall Architecture and built the composite utility billing web application.
-
-- Built the monolith single page application (SPA) for utility billing with Angularjs. HTML5, CSS3, Bootstrap.
-
-- Built the backend as RESTful APIs with .NET, Web API, MVC, C#, and JSON. Integrated the user experience with backend APIs for using Angular\'s HttpClient. Implemented interceptors for authentication tokens and centralized error handling.
-
-- Designed a nested routing structure for multi-level views. Configured routes with lazy loading of feature modules to optimize performance and reduce initial load time. Established route guards to provide access control to protected routes and screens/views.
-
-- Built the backend as .NET web apis and deployed to Azure App services.
-
-- Implemented asynchronous workflows using async/await patterns, improving responsiveness and throughput under high-load conditions.
-
-- Applied response caching to optimize API performance, significantly reducing response times and improving end-user experience.
+Architected the end-to-end composite utility billing solution and owned the platform’s technical direction, standards, and governance.
+Defined system architecture & roadmap: set the solution blueprint, domain boundaries, and extension points to support modularity, maintainability, and future integrations.
+Enabled cross-team delivery: led design reviews, mentored implementers, and produced the architecture artifacts (diagrams, NFRs, runbooks) required for consistent, repeatable delivery.
 
 ##### Fullstack Engineer \| Technology Lead \| Architect
 
-*Infosys, JcPenney, Sysco corp, BNSF Railway, Fort Worth, TX - Jun 2005 - Apr 2016*
+Infosys, BNSF Railway, Fort Worth, TX - (Apr 2011 - Apr 2016)
+Infosys, JCPenney, SYSCO Corp, Chennai, India  - (Nov 2007 - Mar 2011)
 
-- Developed dynamic web applications using ASP.NET MVC with a strong emphasis on modularity and maintainability.
+Developed dynamic, modular web applications using ASP.NET MVC, applying layered designs for maintainability and testability.
+Built single-page applications (SPAs) with Angular, implementing routing, lazy-loading, and responsive UX patterns.
+Implemented RESTful APIs using ASP.NET Core Web API (JSON, OpenAPI/Swagger) with versioning and contract-driven endpoints.
 
-- Built single-page applications (SPAs) using Angular, delivering responsive and interactive user experiences.
-
-- Designed and implemented RESTful APIs using ASP.NET Core Web API, leveraging JSON for data interchange.
-
-- Hands-on experience with ADO.NET and Entity Framework (Code First and Database First approaches) for robust data access and persistence.
-
-- Proficient in LINQ for expressive querying and data annotations for model validation and metadata configuration.
-
-- Worked extensively with SQL Server, including complex stored
-  procedures, functions, cursors, and advanced querying to support data-driven operations.
-
-- Applied modern architecture paradigms, including Clean Architecture and 12-Factor App principles, for scalable and maintainable solutions.
-
-- Strong advocate of reusable and maintainable code, following DRY and SOLID principles, with shared business logic encapsulated in reusable services and APIs.
-
-- Employed asynchronous programming techniques using async/await to enhance application responsiveness and scalability.
-
-- Utilized various design patterns such as Repository, Unit of Work, Decorator, Dependency Injection, Caching, Validation, and Operation Result to promote clean, testable code.
-
-##### Education:
+##### Education
 
 B.E. Bachelors in Computer Science Engineering -- Anna University (2005), India
