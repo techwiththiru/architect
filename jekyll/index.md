@@ -254,4 +254,4 @@ Implemented RESTful APIs using ASP.NET Core Web API (JSON, OpenAPI/Swagger) with
 
 ##### Education
 
-B.E. Bachelors in Computer Science Engineering -- Anna University (2005), India
+B.E. Bachelors in Computer Science Engineering -- Anna University (2005), Ind
