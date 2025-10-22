@@ -1,7 +1,5 @@
 ## Thiru Sowrirajan
 
-*Full Stack Architect \| Azure & Cloud Solutions \| Driving Legacy Modernization & DevOps \| API Strategy & Governance*
-
 [reachtechthiru@gmail.com](mailto:reachtechthiru@gmail.com) \| +1 9729713083 \| [www.linkedin.com/in/techwiththiru](http://www.linkedin.com/in/techwiththiru)
 
 ## Summary
